@@ -18,8 +18,8 @@ I will link to each project that I complete. Some will be in this same repo, som
 Acknowledgment
 ==============
 
-### [Projects](https://github.com/miguelgazela/Projects)
-This is the repo where I took the idea.
+
+This is the **[repo](https://github.com/miguelgazela/Projects)** where I took the idea.
 
 
 ToDO
