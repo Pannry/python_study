@@ -10,3 +10,12 @@
 ### [Uri](https://github.com/Pannry/python_study/tree/master/Uri):
   Some [Uri](https://www.urionlinejudge.com.br/judge/pt/login) problems 
 
+
+
+Some Usefull links
+
+| Site     | Description    | 
+| --------|---------|
+| [Roseta Code](http://rosettacode.org/wiki/Rosetta_Code)  | snippets database  |
+| [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) | List of ideas for programming | 
+
