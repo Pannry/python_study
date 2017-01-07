@@ -8,7 +8,13 @@
   Code snippets using Kivy: Cross-platform Python Framework for NUI Development
 
 ### [Uri](https://github.com/Pannry/python_study/tree/master/Uri):
-  Some [Uri](https://www.urionlinejudge.com.br/judge/pt/login) problems 
+  Some [Uri](https://www.urionlinejudge.com.br/judge/pt/login) problems
+  
+### [Martyr2’s Mega Project List](https://github.com/Pannry/python_study/tree/master/Martyr2%E2%80%99s%20Mega%20Project%20List):
+  Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
+
+
+
 
 
 
