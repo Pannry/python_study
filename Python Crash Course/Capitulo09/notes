@@ -16,5 +16,3 @@ class class_name_filha(class_name):
 
     def metodo3(self):
         #code
-
-"""~~~      ~~~             ~~~         ~~~         """
